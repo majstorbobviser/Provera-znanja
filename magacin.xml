@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<magacin>
+   <artikal>
+        <naziv  sifra="1">
+            Voda
+        </naziv>
+        <datum_izrade>
+            <dan>
+                24
+            </dan>
+            <mesec>
+                5
+            </mesec>
+            <godina>
+                1952
+            </godina>
+        </datum_izrade>
+        <cena  valuta ="eur"> 
+            1   
+        </cena>
+        <kompanija_prodavca>
+            <ime_kompanije>
+                Rosa
+            </ime_kompanije>
+            <adresa>
+                Bulevar Milutina Milankovica 123
+            </adresa>
+            <adresa>
+                Bulevar Milutina Milankovica 456
+            </adresa>
+        </kompanija_prodavca>
+        <email_prodavnica tip="sluzbeni"> 
+            rosasluzbeni@rosa.com
+        </email_prodavnica>
+        <email_prodavnica tip="privatni"> 
+            rosaprivatni@rosa.com
+        </email_prodavnica>        
+    </artikal>
+    <artikal>
+        <naziv sifra="2">
+            Zvake
+        </naziv>
+        <datum_izrade>
+            <dan>
+                1
+            </dan>
+            <mesec>
+                1
+            </mesec>
+            <godina>
+                1998
+            </godina>
+        </datum_izrade>
+        <cena  valuta ="din"> 
+            50  
+        </cena>
+        <kompanija_prodavca>
+            <ime_kompanije>
+                Orbit
+            </ime_kompanije>
+            <adresa>
+                Bulevar Milutina Milankovica 321
+            </adresa>            
+        </kompanija_prodavca>
+        <email_prodavnica tip="sluzbeni"> 
+            orbitsluzbeni@rosa.com
+        </email_prodavnica>
+        <email_prodavnica tip="privatni"> 
+            orbitprivatni@rosa.com
+        </email_prodavnica>        
+    </artikal>
+    
+</magacin>
