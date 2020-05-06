@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<magacin>
+<magacin xmlns="http://www.w3schools.com" 
+elementFormDefault="qualified" 
+targetNamespace="http://www.w3schools.com"
+ xmlns:xs="http://www.w3.org/2001/XMLSchema magacin.xsd">
    <artikal>
         <naziv  sifra="1">
             Voda
